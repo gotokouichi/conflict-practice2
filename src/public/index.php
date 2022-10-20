@@ -2,5 +2,5 @@
 echo 'Welcome TECH QUEST!!';
 echo 'TECH QUESTへようこそ！！';
 echo 'TECH QUESTへようこそ！！';
-echo 'TECH QUESTのLINE';
+echo 'TECH QUESTのLINEアカウントを開設しました！!!!!!';
 
